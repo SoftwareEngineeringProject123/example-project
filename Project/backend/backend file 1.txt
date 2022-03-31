@@ -6,3 +6,5 @@ blue
 what color is green?
 
 green
+
+what color is red?
